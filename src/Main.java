@@ -17,4 +17,8 @@ public class Main {
     private static int calculate(int age){
         return age+10;
     }
+
+    private static String getName(){
+        return "Ushan";
+    }
 }

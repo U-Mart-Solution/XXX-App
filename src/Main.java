@@ -13,4 +13,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello XXX");
     }
+
+    private static int calculate(int age){
+        return age+10;
+    }
 }

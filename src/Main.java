@@ -21,4 +21,13 @@ public class Main {
     private static String getName(){
         return "Ushan";
     }
+
+    private static String getHello(){
+        return "Hello";
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }

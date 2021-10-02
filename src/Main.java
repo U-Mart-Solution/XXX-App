@@ -30,4 +30,8 @@ public class Main {
     public String toString() {
         return super.toString();
     }
+
+    private String hello(){
+        System.out.println("Fuck");
+    }
 }
